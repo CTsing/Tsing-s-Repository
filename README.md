@@ -1,6 +1,4 @@
 # Tsing-s-Repository
-project of online courses for ML,DL
-
 这个Repository存放本人参加Udacity机器学习纳米学位和深度学习基石纳米学位时完成的项目。
 
 ## 机器学习纳米学位项目：
