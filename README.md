@@ -11,7 +11,7 @@
 
 ## 深度学习基石纳米学位项目：
 1. dlnd-your-first-neural-network.ipynb - 本项目实现一个BP神经网络。通过完成本项目，掌握了神经网络的基本原理（如前向传播和误差的反向传播）以及如何使用python实现神经网络。
-2. dlnd_image_classification.ipynb - 
-3. dlnd_tv_script_generation.ipynb - 
-4. dlnd_language_translation.ipynb - 
-5. dlnd_face_generation.ipynb - 
+2. dlnd_image_classification.ipynb - 本项目通过构建CNN，对CIFAR-10数据集中的图片进行分类。
+3. dlnd_tv_script_generation.ipynb - 本项目通过构建RNN，输入数据集为Simpsons（动画片桑普森一家的对话集），生成一段新的对话。
+4. dlnd_language_translation.ipynb - 本项目通过构建RNN，英语和对应法语句子构成的数据及上，训练一个序列到序列（sequence-to-sequence）的模型，使之具备翻译英语为法语的能力。
+5. dlnd_face_generation.ipynb - 本项目通过构建GAN，输入数据集为人脸图片，通过模型生成新的人脸图片。
